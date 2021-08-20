@@ -1,0 +1,4 @@
+beautifulsoup4==4.8.1
+numpy==1.17.4
+scikit_learn==0.22
+keras==2.3.1
